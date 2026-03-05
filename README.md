@@ -26,28 +26,32 @@
 ## 📊 Estatísticas do GitHub
 
 <p>
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=whatdanxz&show_icons=true&theme=tokyonight" 
-/>
 
 <img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatdanxz&layout=compact&theme=tokyonight" 
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Desenvolvedor_DaniloC&show_icons=true&theme=tokyonight"
 />
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desenvolvedor_DaniloC&layout=compact&theme=tokyonight"
+/>
+
 </p>
 
 ---
 
 ## 🔥 Sequência de commits
 
-<img src="https://streak-stats.demolab.com?user=whatdanxz&theme=tokyonight"/>
+<p>
+<img src="https://streak-stats.demolab.com?user=Desenvolvedor_DaniloC&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 👀 Visitantes
 
-<img src="https://komarev.com/ghpvc/?username=whatdanxz&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Desenvolvedor_DaniloC&color=blue"/>
 
 ---
 
@@ -55,6 +59,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatdanxz&la
 
 📧 **danilodanzzzl@gmail.com**
 
+---
+
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/whatdanxz/whatdanxz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Desenvolvedor_DaniloC/Desenvolvedor_DaniloC/blob/output/github-contribution-grid-snake.svg)
