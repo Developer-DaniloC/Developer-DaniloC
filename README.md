@@ -29,12 +29,12 @@
 
 <img 
 height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Desenvolvedor_DaniloC&show_icons=true&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api?username=Developer-DaniloC&show_icons=true&theme=tokyonight"
 />
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desenvolvedor_DaniloC&layout=compact&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-DaniloC&layout=compact&theme=tokyonight"
 />
 
 </p>
@@ -44,14 +44,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desenvolvedo
 ## 🔥 Sequência de commits
 
 <p>
-<img src="https://streak-stats.demolab.com?user=Desenvolvedor_DaniloC&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Developer-DaniloC&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 👀 Visitantes
 
-<img src="https://komarev.com/ghpvc/?username=Desenvolvedor_DaniloC&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Developer-DaniloC&color=blue"/>
 
 ---
 
@@ -63,4 +63,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desenvolvedo
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/Desenvolvedor_DaniloC/Desenvolvedor_DaniloC/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Developer-DaniloC/Developer-DaniloC/blob/output/github-contribution-grid-snake.svg)
