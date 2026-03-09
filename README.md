@@ -32,7 +32,7 @@
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Developer-DaniloC&layout=compact&theme=tokyonight"/>
 
 </p>
----
+
 
 ## 🔥 Sequência de commits
 
