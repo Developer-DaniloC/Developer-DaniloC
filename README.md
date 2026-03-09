@@ -5,9 +5,7 @@
 🚀 JavaScript Developer <br>
 📚 Aprendendo Node.js e Python
 </p>
----
 
----
 
 ## 🚀 Sobre mim
 
